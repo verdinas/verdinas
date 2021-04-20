@@ -8,7 +8,7 @@ public class pokedex {
 
 	public static void main(String[] args) {
 		
-
+		System.out.println("1. kaspasaloko");
 		System.out.println("1. Buscar por tipo");
 		System.out.println("2.Consultar informacion");
 		System.out.println("3. Simular combate");

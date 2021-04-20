@@ -1,7 +1,9 @@
 package pokemon;
 
-public class ataques {
 
+public class ataques {
+ 
+	
 	String nombre;
 	int fuerza;
 	String tipo;
